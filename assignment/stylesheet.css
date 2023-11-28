@@ -1,21 +1,33 @@
-header {
+
+.iceman{
     text-align: center;
     background-color: darkblue;
     color:aliceblue;
-
 }
 
-main {
+.beast{
+   
+    border: solid;
+    border-color: black;
     background-color: lightgray;
     margin: 1em;
+     
     
 }
 
-div {
+.cyclops {
+    
+        color: orange;
+        font-size: 50px;
+    
+}
+
+.jeangrey{
     background: url('record.png');
     background-repeat: repeat;
 }
 
 body {
     margin: 0;
+    
 }
